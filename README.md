@@ -8,7 +8,7 @@ I am a Cyber Security Practioner with a ISC2 Certification.
 ## Objective
 [Provide Objective]
 
-I am Earnestly working to obtain more knowledge, Insight and experience in Cybersecurity. I've been using Tryhackme.com and Letsdefend.com to hone my Cybersecurity Knowledge. 
+I am Earnestly working to obtain more Knowledge, Insight and Experience in Cybersecurity. I've been using Tryhackme.com and Letsdefend.com to hone my Cybersecurity Knowledge. 
 My free time is spent working on SOC job simulations through companies like Master Card and J.P. Morgan Chase. I have been working on completing my Google Cyber Security
 Certification, Then I will complete Security+, Network+ and AWS Cloud Practioner. 
 
@@ -50,24 +50,59 @@ Certification, Then I will complete Security+, Network+ and AWS Cloud Practioner
 ](https://www.atlassian.com/software/jira)
 
 
-### Network
+### Network, Surfshark vpn
+<div>
+
+[
+](https://surfshark.com/)
+
+
+### Endpoint, Bitdefender and Surfshark vpn
 <div>
 
 
+[
+](https://www.bitdefender.com/en-ca/)
 
-### Endpoint
-<div>
-
-
-
+[
+](https://surfshark.com/)
 
 
 ### SIEM 
 <div>
 
+[
+](https://aws.amazon.com/)
 
 
 
+### Virtual Machine, Crostini
+<dir>
 
 
+[
+](https://chromeos.dev/en/linux)
 
+
+## Certifications
+[Provide Certifications that you have Obtained.]
+<div>
+
+Foundation of Cybersecurity
+
+[(https://coursera.org/verify/MGWKCKGF3SCK)]
+
+Tools of the Trade: Linux & SQL
+[(https://coursera.org/verify/YDKKX4RTVZAX)]
+
+Sound the Alarm: Detection and Response
+[(https://coursera.org/verify/5ZWP0KI8Z4OY)]
+
+Assets Threats and Vulnerabilities
+[(https://coursera.org/verify/SS5K7VWEPTR3)]
+
+Play it Safe: Manage Security Risks
+[(https://coursera.org/verify/FZ6HZG4YCXME)]
+
+Connect and Protect: Network and Network Security
+[(https://coursera.org/verify/6C9BGH4CAVH4)]
